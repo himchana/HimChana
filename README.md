@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Him%20Chana&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=HimChana&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -86,7 +86,7 @@ class HimChana:
 
 <div align="center">
 
-[![Himchana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HimChana&bg_color=0D0B1A&color=A78BFA&line=6E40C9&point=ffffff&area=true&hide_border=false&area_color=6E40C920)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![HimChana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HimChana&bg_color=0D0B1A&color=A78BFA&line=6E40C9&point=ffffff&area=true&hide_border=false&area_color=6E40C920)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
