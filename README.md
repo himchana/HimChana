@@ -23,7 +23,7 @@
 ```python
 class HimChana:
     name       = "HimChana"
-    role       = "Bachelor Degree of Scince And Information Technology > Continuing Student"
+    role       = "Bachelor Degree of Scince and Information Technology Continuing Student"
     location   = "Tanzania 🇹🇿"
     languages  = ["Python", "JavaScript", "TypeScript", "HTML/CSS"]
     frameworks = ["FastAPI", "Node.js", "React"]
