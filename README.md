@@ -21,8 +21,8 @@
 ## 🌙 About Me
 
 ```python
-class HimChana:
-    name       = "HimChana"
+class KALEBU CHANA:
+    name       = "KALEBU CHANA"
     role       = "Bachelor Degree of Scince and Information Technology Continuing Student"
     location   = "Tanzania 🇹🇿"
     languages  = ["Python", "JavaScript", "TypeScript", "HTML/CSS"]
