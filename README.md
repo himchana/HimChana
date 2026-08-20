@@ -5,7 +5,6 @@
 
 <!-- Typing Animation -->
 <div style="position: relative; width: 200px; height: 200px; margin: 20px auto;">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Kalebu Chana" width="200" height="200" style="border-radius: 50%; border: 4px solid #6E40C9; display: block;"/>
 </div>
 
 <br/>
@@ -148,7 +147,6 @@ class KalebuChana:
 ## 📚 Currently Learning
 
 - 🔹 Advanced React Patterns & Performance Optimization
-- 🔹 Kubernetes & Container Orchestration
 - 🔹 Cloud Computing (AWS/GCP)
 - 🔹 Machine Learning with Python
 - 🔹 GraphQL & Advanced API Design
@@ -162,9 +160,7 @@ class KalebuChana:
 **Reach out to me on:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kalebu%20Chana-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himchana)
-[![Twitter](https://img.shields.io/badge/Twitter-@KalebuChana-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KalebuChana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalebu%20Chana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalebu-chana)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalebuchana@gmail.com.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-6E40C9?style=for-the-badge&logo=globe&logoColor=white)](https://kalebu-chana.com)
 
 </div>
@@ -183,12 +179,12 @@ class KalebuChana:
 
 ## 💡 Quick Facts
 
-- 🎓 Software Engineering Student | Bachelor's Degree in IT
-- 📍 Based in Tanzania 🇹🇿
-- 💪 Passionate about problem-solving and clean code
-- 🌱 Always learning and growing
-- 🚀 Excited about new challenges and collaborations
-- 📝 Open to freelance projects and team collaborations
+-   Software Engineering Student | Bachelor's Degree in IT
+-   Based in Tanzania 🇹🇿
+-   Passionate about problem-solving and clean code
+-   Always learning and growing
+-   Excited about new challenges and collaborations
+-   Open to freelance projects and team collaborations
 
 ---
 
